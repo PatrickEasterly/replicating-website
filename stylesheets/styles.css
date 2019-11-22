@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+.blocks {
+    width: 250px;
+    height: 150px;
+    border: 1px solid blue;
+}
+#content1a {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+#content1b {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+#content2a {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+#content2b {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.blocks img {
+    width: 64px;
+}
+.image.is-64x64 {
+    height: 64px;
+    width: 64px;
+}
